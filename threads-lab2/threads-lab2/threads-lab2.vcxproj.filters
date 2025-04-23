@@ -15,12 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="threads_11_04_2025.cpp">
+    <ClCompile Include="threads-lab2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="add.cl" />
-    <None Include="muptiply.cl" />
   </ItemGroup>
 </Project>
